@@ -1,0 +1,17 @@
+/naa-dump-offline
+/naa-dump-offline-*
+/dist/
+*.exe
+*.dll
+*.so
+*.dylib
+*.data
+*.raw
+*.vmdk
+*.vhdx
+*.vss
+*.zip
+.idea/
+.vscode/
+*.swp
+.DS_Store
