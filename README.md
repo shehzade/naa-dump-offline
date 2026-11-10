@@ -2,6 +2,8 @@
 
 Offline tool to carve and decrypt SCCM/MECM Network Access Account (NAA) credentials and policy secrets from dead-disk artifacts (`OBJECTS.DATA`, registry hives, and DPAPI master keys).
 
+![naa-dump-offline demo](docs/images/naa-dump-offline-demo.png)
+
 ## Table of Contents
 
 - [Why / The Gap This Fills](#why--the-gap-this-fills)
